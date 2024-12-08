@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "titulo": "Cien Años de Soledad",
+        "autor": "Gabriel García Márquez",
+        "categoria": "Novela",
+        "estado": "disponible"
+    },
+    {
+        "id": "2",
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "categoria": "Clásico",
+        "estado": "prestado"
+    },
+    {
+        "id": "3",
+        "titulo": "El Principito",
+        "autor": "Antoine de Saint-Exupéry",
+        "categoria": "Ficción",
+        "estado": "disponible"
+    }
+]
